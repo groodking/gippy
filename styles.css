@@ -1,0 +1,205 @@
+.top-container
+{
+  background-color: #eaf6f6;
+  padding-top: 100px;
+  position: relative;
+}
+
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'algerian', cursive;
+}
+
+h1
+{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;/*90px*/
+  font-family: 'algerian',cursive;
+  color:#66bfbf;
+  font-weight:normal;
+  line-height: 2;
+
+}
+h2
+{
+  color:#66bfbf;
+  font-family: 'georgia';
+  font-size: 2.5rem;
+  font-weight:normal;
+}
+h3
+{
+  font-family: 'georgia';
+  color:#11999E;
+}
+hr
+{
+  border-style:dotted none none;
+  border-color:lightgrey;
+  width: 4%;
+  border-width:6px;
+}
+.intro
+{
+  color: #40514E;
+  width: 50%;
+  margin:auto;
+}
+.skill-row
+{
+  margin:100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.profile
+{
+  margin-bottom:90px;
+}
+.get
+{
+  margin-top: 70px;
+}
+.skills
+{
+  margin-top: 90px;
+}
+.contact-me
+{
+  margin:60px auto 40px auto;
+  width: 50%;
+}
+.dev
+{
+  line-height: 2;
+/*  clear:left;*/
+}
+/*.ani
+{
+  clear:right;
+}*/
+.top
+{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.saru
+{
+  border-radius: 100%;
+  width: 160px;
+  height:160px;
+  margin-top: 65px;
+}
+.blast
+{
+  width: 30px;
+  height: 30px;
+}
+.anime
+{
+  border-radius: 100%;
+  width: 25%;
+  height: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
+.face
+{
+  border-radius: 100%;
+  width: 30px;
+  height:30px;
+
+}
+.insta
+{
+  border-radius: 100%;
+  width: 30px;
+  height:30px;
+
+}
+.app
+{
+  border-radius: 100%;
+  width: 30px;
+  height:30px;
+}
+.comp
+{
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+/*
+.middle-container:hover
+{
+    background-color: skyblue;
+}*/
+.bottom-container
+{
+  background-color: #66bfbf;
+  position: relative;
+  top:20px;
+
+}
+.footer-link
+{
+  color:#11999E;
+  text-decoration: none;
+
+
+}
+.sa
+{
+  color:#eff6f6;
+  position: relative;
+  bottom: 40px;
+}
+
+.myButton {
+	box-shadow: 0 1px 3px 1px #f0f7fa;
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #11999e;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:10px 15px;
+	text-decoration:none;
+	text-shadow:1px 0 0 #5b6178;
+  margin-bottom: 40px;
+}
+.myButton:hover {
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+  top:1px;
+}
+
+table
+{
+  margin-top: 15px;
+}
+
+span
+{
+  text-decoration:underline;
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+}
